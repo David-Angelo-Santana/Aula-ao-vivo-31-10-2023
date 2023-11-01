@@ -31,7 +31,3 @@ O código também personaliza a aparência do formulário, incluindo a mudança 
 - **Instituição de Ensino:** PROZ
   - [LinkedIn](https://www.linkedin.com/school/prozeducacao/)
 
-
-Esperamos que essa descrição ajude a compreender o conteúdo da aula em termos de validação e estilização de formulários. Para mais detalhes, consulte o código-fonte fornecido no repositório do GitHub.
-
-Certifique-se de substituir os espaços apropriados no arquivo README.md com links e formatação adequados para garantir que os links sejam clicáveis e o texto seja formatado corretamente quando você o carregar para o seu repositório GitHub.
